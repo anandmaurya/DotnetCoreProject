@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlacementApp", "PlacementApp.csproj", "{54C58D44-F0B4-4896-A7F7-D0B2422CCC49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web.csproj", "{54C58D44-F0B4-4896-A7F7-D0B2422CCC49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Placement.Infrastructure", "..\Placement.Infrastructure\Placement.Infrastructure.csproj", "{B904C053-6304-4212-B94A-38FA860C50C6}"
 EndProject
